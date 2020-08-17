@@ -1,6 +1,11 @@
-# tusmatik
+# Tusmatik
 
-A new Flutter project.
+A counter/forum app for doctors. TUS is an important exam to be an specialist doctor. In Tusmatik, there is a counter for TUS date and it has animations to show remaining time. In another tab, there is a forum for doctors who can share thoughts, comments and information.
+
+- Tusmatik created with flutter/dart.
+- Tusmatik is both IOS and Android app by the nature of flutter.
+
+![alt text](https://ibb.co/m4PVkXd)
 
 ## Getting Started
 
