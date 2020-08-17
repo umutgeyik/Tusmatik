@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "668427137883",
+    "firebase_url": "https://tusmatik-c4d3e.firebaseio.com",
+    "project_id": "tusmatik-c4d3e",
+    "storage_bucket": "tusmatik-c4d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668427137883:android:5a2e3fd0cb12f1c91ea07e",
+        "android_client_info": {
+          "package_name": "com.umutgeyik.tusmatik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668427137883-6h3htf0vq830e5ju1lem7tjnlrjfiajv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDt8eZaG3BBqg5N28-Sfxi-DMV_ceux34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668427137883-6h3htf0vq830e5ju1lem7tjnlrjfiajv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668427137883-hiaekrodoso0kb2a7gpq3esd7ej9fvd3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.umutgeyik.tusmatik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
