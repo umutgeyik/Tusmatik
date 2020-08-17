@@ -5,7 +5,7 @@ A counter/forum app for doctors. TUS is an important exam to be an specialist do
 - Tusmatik created with flutter/dart.
 - Tusmatik is both IOS and Android app by the nature of flutter.
 
-![alt text](https://ibb.co/m4PVkXd)
+![alt text]([https://i.ibb.co/m4PVkXd/tusmatik.png)
 
 ## Getting Started
 
