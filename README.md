@@ -10,7 +10,7 @@ A counter/forum app for doctors. TUS is an important exam to be an specialist do
 ![alt text](https://i.ibb.co/vJbQw5W/Screenshot-1591117341.png)
 ![alt text](https://i.ibb.co/FBMg8QT/Screenshot-1591611707.png)
 ![alt text](https://i.ibb.co/Rztyny2/Simulator-Screen-Shot-i-Phone-11-Pro-Max-2020-06-04-at-21-47-35.png)
-![alt text]()
+
 
 
 ## Getting Started
